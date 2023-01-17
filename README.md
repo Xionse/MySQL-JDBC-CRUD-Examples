@@ -34,7 +34,7 @@ This project provides examples of how to perform CRUD (Create, Read, Update, and
 - MySQL Connector/J version 8.0
 
 ## Author
-xionse 
+[xionse](https://github.com/Xionse) 
 ## Acknowledgments
 ??
 ## Conclusion
