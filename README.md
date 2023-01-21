@@ -36,7 +36,7 @@ This project provides examples of how to perform CRUD (Create, Read, Update, and
 ## Author
 [xionse](https://github.com/Xionse) 
 ## Acknowledgments
-??
+Dr. Agaba Joab and Dr. Darlington
 ## Conclusion
 This project will provide a solid foundation for anyone looking to work with MySQL databases using JDBC in Java. The examples provided cover the basic CRUD operations, and can be easily modified to suit your specific needs
 
